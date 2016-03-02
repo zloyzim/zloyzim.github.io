@@ -6,6 +6,15 @@ video{
    overflow:hidden;
 }
 
+h1 {
+    text-align:center;
+    color:#fff;
+    font-size: 50px;
+    margin-top:0px;
+	font-family: 'Open Sans', sans-serif;
+	color: #2b2b2b;
+}
+
 .grid {
 	padding: 20px 20px 100px 20px;
 	max-width: 1400px;
@@ -37,13 +46,14 @@ transform:  rotate(348deg) scale(1) skew(1deg) translate(0px);-webkit-transform:
 	max-width: 50%;
 	display: block;
 	position: relative;
+	
 }
 
 .grid figcaption {
 	position: absolute;
 	top: 0;
 	left: 0;
-	padding: 20px;
+	padding: 30px;
 	/*background: #e8e8e8;*/
 	color: #2b2b2b;
 }
