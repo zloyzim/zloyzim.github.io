@@ -82,7 +82,7 @@ transform:  rotate(348deg) scale(1) skew(1deg) translate(0px);-webkit-transform:
 	padding: 5px 10px;
 	border-radius: 2px;
 	display: inline-block;
-	background: #8B795E;
+	/* background: #8B795E; */
 	color: #2b2b2b;
 }
 
