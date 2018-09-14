@@ -871,7 +871,7 @@ body {
   /* background:white; */
   position:relative;
   border-radius:5px;
-  box-shadow:10px 10px 0px rgba(0,0,0,.05);
+  /* box-shadow:250px 250px 250px 250px rgba(0,0,0,.05); */
 }
 
 #i-have-a-tooltip:before {
